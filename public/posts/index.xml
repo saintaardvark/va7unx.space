@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on va7unx.space</title>
+		<link>https://va7unx.space/posts/</link>
+		<description>Recent content in Posts on va7unx.space</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Wed, 03 Jun 2020 15:11:14 -0700</lastBuildDate>
+		<atom:link href="https://va7unx.space/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>My First Post</title>
+			<link>https://va7unx.space/posts/my-first-post/</link>
+			<pubDate>Wed, 03 Jun 2020 15:11:14 -0700</pubDate>
+			
+			<guid>https://va7unx.space/posts/my-first-post/</guid>
+			<description>Hello, world! This is a new post in Hugo.</description>
+			<content type="html"><![CDATA[<p>Hello, world!  This is a new post in Hugo.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
