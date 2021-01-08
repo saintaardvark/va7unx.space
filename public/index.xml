@@ -7,18 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 15:11:14 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 15:28:08 -0700</lastBuildDate>
     
 	<atom:link href="https://va7unx.space/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://va7unx.space/posts/my-first-post/</link>
-      <pubDate>Wed, 03 Jun 2020 15:11:14 -0700</pubDate>
+      <title>Fast Ai and Pytorch</title>
+      <link>https://va7unx.space/posts/fast-ai-and-pytorch/</link>
+      <pubDate>Sun, 25 Oct 2020 15:28:08 -0700</pubDate>
       
-      <guid>https://va7unx.space/posts/my-first-post/</guid>
-      <description>Hello, world! This is a new post in Hugo.</description>
+      <guid>https://va7unx.space/posts/fast-ai-and-pytorch/</guid>
+      <description>I&amp;rsquo;ve been interested in machine learning for a while now. Like a lot of things, my approach has been a bit scattered. I&amp;rsquo;m slowly learning how to get better at that, but I still tend to veer around.
+A couple of months ago, I decided to take the Fast.ai course again. I had done a couple of lessons a year ago, but had not followed it up. This time around, I saw that they not only had a new version of the course, but a book as well.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://va7unx.space/about/</link>
+      <pubDate>Wed, 03 Jun 2020 15:38:18 -0700</pubDate>
+      
+      <guid>https://va7unx.space/about/</guid>
+      <description>I&amp;rsquo;m just this guy, you know?
+Interests and past hobbies:
+ Linux Go, Python, Lisp Arduinos Amateur radio SPAAAAAAAACE Machine learning  </description>
     </item>
     
   </channel>

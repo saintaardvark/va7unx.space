@@ -1,7 +1,7 @@
 baseURL = "https://va7unx.space/"
 languageCode = "en-us"
 title = "va7unx.space"
-theme = "ananke"
+theme = "m10c"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
@@ -17,10 +17,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Categories are disabled by default.
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
+  dateform        = "Januaray 2, 2006"
+  dateformShort   = "January 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  description     = "Hugh Brown, VA7UNX"
 
 [menu]
 

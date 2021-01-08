@@ -5,3 +5,12 @@ draft: false
 ---
 
 I'm just this guy, you know?
+
+Interests and past hobbies:
+
+- Linux
+- Go, Python, Lisp
+- Arduinos
+- Amateur radio
+- SPAAAAAAAACE
+- Machine learning
