@@ -1,6 +1,7 @@
 ---
 title: "What Happened in January"
 date: 2021-02-05T11:52:38-08:00
+tags: [progress report]
 draft: false
 ---
 
