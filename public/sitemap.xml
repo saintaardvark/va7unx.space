@@ -4,16 +4,36 @@
   
   <url>
     <loc>https://va7unx.space/posts/</loc>
-    <lastmod>2021-02-05T11:52:38-08:00</lastmod>
+    <lastmod>2021-03-01T08:58:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://va7unx.space/tags/progress-report/</loc>
+    <lastmod>2021-03-01T08:58:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://va7unx.space/tags/</loc>
+    <lastmod>2021-03-01T08:58:29-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://va7unx.space/</loc>
-    <lastmod>2021-02-05T11:52:38-08:00</lastmod>
+    <lastmod>2021-03-01T08:58:29-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://va7unx.space/posts/what-happened-in-january/</loc>
+    <loc>https://va7unx.space/posts/what_happened_in_february_2021/</loc>
+    <lastmod>2021-03-01T08:58:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://va7unx.space/posts/fixing_apache_and_utf8/</loc>
+    <lastmod>2021-02-10T13:42:08-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://va7unx.space/posts/what-happened-in-january_2021/</loc>
     <lastmod>2021-02-05T11:52:38-08:00</lastmod>
   </url>
   
@@ -35,10 +55,6 @@
   <url>
     <loc>https://va7unx.space/about/</loc>
     <lastmod>2020-06-03T15:38:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://va7unx.space/tags/</loc>
   </url>
   
 </urlset>

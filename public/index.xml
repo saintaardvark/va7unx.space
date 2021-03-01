@@ -7,17 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 05 Feb 2021 11:52:38 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 08:58:29 -0800</lastBuildDate>
     
 	<atom:link href="https://va7unx.space/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>What happened in February</title>
+      <link>https://va7unx.space/posts/what_happened_in_february_2021/</link>
+      <pubDate>Mon, 01 Mar 2021 08:58:29 -0800</pubDate>
+      
+      <guid>https://va7unx.space/posts/what_happened_in_february_2021/</guid>
+      <description>Here&amp;rsquo;s what I got up to in February 2021:
+Polaris  Recorded and presented my talk on Polaris for PyCascades. It went pretty well, I think.  Machine learning/data science   Began Chapter 9 of the FastAI book. This is on tabular learning, which is really interesting; I think this is the sort of approach I&amp;rsquo;d want to take for loostmap, my attempt to predict HF propagation by looking at data from the Reverse Beacon Network (I picked that project name from a random name generator&amp;hellip;I really need something that makes more sense.</description>
+    </item>
+    
+    <item>
+      <title>Fixing Apache and UTF8</title>
+      <link>https://va7unx.space/posts/fixing_apache_and_utf8/</link>
+      <pubDate>Wed, 10 Feb 2021 13:42:08 -0800</pubDate>
+      
+      <guid>https://va7unx.space/posts/fixing_apache_and_utf8/</guid>
+      <description>A while back, I started having problems with the output of Venus, a planet-like aggregator I use to read a bunch of things. The symptoms were broken characters for things like apostrophes, quotes and so on &amp;ndash; which rendered the output nearly unusable. I dug into it, but couldn&amp;rsquo;t resolve the problem&amp;hellip;so I resorted to a bletcherous hack (cron job to copy the file to my laptop, and view it with file:///.</description>
+    </item>
+    
+    <item>
       <title>What Happened in January</title>
-      <link>https://va7unx.space/posts/what-happened-in-january/</link>
+      <link>https://va7unx.space/posts/what-happened-in-january_2021/</link>
       <pubDate>Fri, 05 Feb 2021 11:52:38 -0800</pubDate>
       
-      <guid>https://va7unx.space/posts/what-happened-in-january/</guid>
+      <guid>https://va7unx.space/posts/what-happened-in-january_2021/</guid>
       <description>Here&amp;rsquo;s a quick list, for my own reference, of what I got up to in January. It&amp;rsquo;s heartening to see everything laid out, and realize that I&amp;rsquo;ve actually managed to get a fair bit done!
 Hardware hacking   My father-in-law and I worked on getting the precipitation meter going for our weather station. It took a while, but we finally got it working. 🎉
   Some one-wire temperature sensors came in, and I was able to whip up a quick demo to make sure they worked.</description>
