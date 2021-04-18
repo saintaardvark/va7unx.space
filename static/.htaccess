@@ -1,2 +1,5 @@
 RewriteEngine On
-RewriteRule ^trees/?$ /projects/trees/
+# To add a new project:
+# - Create a directory under /var/www/projects
+# - Add a rewrite rule like this one:
+RewriteRule ^trees(/?.*)$ /projects/trees$1
