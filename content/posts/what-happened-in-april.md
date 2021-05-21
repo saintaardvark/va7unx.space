@@ -44,5 +44,5 @@ A little late (hah!), but still trying to keep the habit.
   location: it was in a lower part of the park, and it seemed to
   affect propagation.
 
-[0]: https://va7unx.space/projects/trees
+[0]: https://va7unx.space/trees
 [1]: https://gitlab.com/librespacefoundation/polaris/polaris/-/issues/165
