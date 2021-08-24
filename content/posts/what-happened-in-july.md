@@ -56,8 +56,12 @@ So late!  Let's catch up.
 - We went through [the big heat wave][1]; outside temperatures hit
   45.1 C in the sun at my inlaws' pace, and 32.8 C indoors at my
   place; as for the max overnight temperature, it was 24.9 C at my
-  inlaws, and 29.1 C at my place.  This scared the shit out of me.  A
-  number of things have come out of that.
+  inlaws, and 29.1 C at my place:
+
+![Grafana temperature graph for August 2021 heat wave][3]
+
+  This scared the shit out of me.  A number of things have come out of
+  that.
 
 - For a start, my wife & I have begun talking about emergency
   cooling.  We're in a townhouse and have no AC; we coped by staying
@@ -99,6 +103,8 @@ So late!  Let's catch up.
   > deserve not just our recognition and gratitude, but a response – a
   > way to fix this so they don’t have to go through it again.
 
+
 [0]: https://www.youtube.com/watch?v=yPCRzUNCQdo&list=PL3QzFgBMGnbRREwZWFPpaFN1WLXKUW6a7&index=8
 [1]: https://en.wikipedia.org/wiki/2021_Western_North_America_heat_wave
 [2]: https://www.patrickjohnstone.ca/2021/07/heat-dome.html
+[3]: /2021_august_heat_wave-grafana.png
