@@ -1,7 +1,7 @@
 ---
 title: "What Happened in August 2021"
 date: 2021-09-11T14:46:00-07:00
-draft: true
+draft: false
 ---
 
 What did I do this month?  Let's see.
