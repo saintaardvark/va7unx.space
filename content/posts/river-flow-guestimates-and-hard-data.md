@@ -5,7 +5,7 @@ draft: false
 ---
 
 My wife and I were out at the [Coquitlam River Park today][0], walking
-along the trails.  we hadn't been there before, and it was amazing to
+along the trails.  We hadn't been there before, and it was amazing to
 see the river flow.  It was _fast_, and it was easy to imagine the bad
 things that would happen if it flooded.
 
