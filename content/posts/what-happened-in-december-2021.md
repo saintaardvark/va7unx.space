@@ -1,5 +1,5 @@
 ---
-title: "What Happened in December 2022"
+title: "What Happened in December 2021"
 date: 2022-01-18T06:59:56-08:00
 draft: false
 ---
