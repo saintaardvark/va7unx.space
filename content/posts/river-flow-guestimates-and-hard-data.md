@@ -47,10 +47,10 @@ feature...)  The [linked paper][5] has this graph:
 
 ![Velocity River Profile][6]
 
-which came from [this USGS publication][13]
+which came from [this USGS publication][13].
 
 At this point, I fell down another rabbit hole around [modelling
-velocity distribution in rivers][7], [other papers giving empiracal
+velocity distribution in rivers][7], [other papers giving empirical
 results on velocity distribution,][8], [and so on][9].  [This
 article][10] gave [Manning's Equation][11], which I was excited about
 until I realized this doesn't really apply here.  But it was
