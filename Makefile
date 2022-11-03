@@ -1,4 +1,12 @@
-HUGO=~/bin/hugo
+# Note: I'm beginning to play with CSS.  In order to have Hugo rebuild
+# this, you need to use Hugho *extended*.  I've chosen to install that
+# using snap
+# (https://gohugo.io/getting-started/installing/#snap-package).
+#
+# I'm using the m10c theme, which at the moment is installed via git
+# submodules.  That may be less than ideal...
+
+HUGO=hugo
 
 draft:
 	echo "run: hugo new posts/title-of-post.md"
