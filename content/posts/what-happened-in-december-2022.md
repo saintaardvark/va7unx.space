@@ -4,6 +4,14 @@ date: 2023-01-02T16:31:22-08:00
 draft: false
 ---
 
+First thing to mention, which doesn't really have a category: I walked
+from my home in New Westminster to UBC in one day; it was about 32km,
+which is the longest walk I've done in one day.  I am mulling the
+possibility of walking across the US when I'm 60, and this is the kind
+of daily distance I'd want to maintain.  I got some good blisters and
+was sore the next day, but not crippled; I think I could have done
+that again.  It's a good sign.
+
 ## Webby
 
 - Continued with the [UMich/Coursera Web Design for Everybody

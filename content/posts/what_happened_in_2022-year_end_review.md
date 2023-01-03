@@ -41,6 +41,12 @@ What happened in 2022?
 * Continued work on my Emacs dotfiles, which has been going
   since 2009.  Wow.
 
+* I read 46 books.
+
+* I walked an average of 7km a day, for a total of 2,573 km.  This
+  isn't as much as 2021 (7.2 km/d, 2629km) -- but is not bad at all
+  for getting COVID (Jan/Feb) and flu (November).
+
 * Began teaching myself web development.
 
 * Resigned as a core contributor for the Libre Space Foundation and
