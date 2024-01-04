@@ -57,7 +57,7 @@ A quick summary before I work on the year-end post.
   - I've got Python code to graph those measurements.
   
   So far, the results aren't great, but I'm plugging away on it.
-  
+ 
 
 # Nature
 
@@ -71,15 +71,31 @@ A quick summary before I work on the year-end post.
   
 ## Climate emergency
 
-- Still trying to book a meeting with my MLA; this has taken longer
-  than expected.
+- Still trying to book a meeting with [my MLA][17]; this has taken longer
+  than expected.  But I was able to meet her, along with [my federal
+  MP][16], briefly at a Christmas community event & talk about climate
+  action, so there's that.
 
 - Switched retirement investments away from TD due to [their refusal
   to take climate change seriously][1].
   
+- Attended the [Vancouver climate march][18] in September.
+
+- Emailed New Westminster City Council about [following Nanaimo's
+  example and banning new natural gas hookups][19]; got reply from 2
+  councillors (both in favour) and the mayor (in favour, though wants
+  to see how this can be worked into current city policy).  In
+  general, I'm very happy with how our current mayor & council are
+  handling this...though I'd like to see more serious engagement from
+  the New West Progressives, who seem more focused on scoring points
+  than actually getting anything done (whether about climate or
+  anything else).
+  
+- Submissions to the BC government against the Ksi Lisims LNG project.
+
 - Attended [a protest][14] against fracking at [the BC NDP convention in
   Victoria][15].  [This is the best explanation I've found][13] of what
-  happened with the failed resolution to come out against fracking.
+  happened with the failed resolution against fracking in the convention.
 
 ## Learning
 
@@ -106,3 +122,7 @@ A quick summary before I work on the year-end post.
 [13]: https://dogwoodbc.ca/news/what-i-wanted-to-say-at-the-bc-ndp-convention/
 [14]: https://www.wildernesscommittee.org/events/EndFrackingRally
 [15]: https://thetyee.ca/News/2023/11/20/Gaza-Ceasefire-Centre-Stage-BC-NDP-Convention/
+[16]: https://en.wikipedia.org/wiki/Peter_Julian
+[17]: https://en.wikipedia.org/wiki/Jennifer_Whiteside
+[18]: https://www.cbc.ca/news/canada/british-columbia/climate-march-2023-1.6968741
+[19]: https://www.chly.ca/local-news/2023/9/26/nanaimo-council-passes-bylaw-banning-natural-gas-heating-in-new-homes
