@@ -1,7 +1,7 @@
 ---
 title: "What Happened in September - December 2023"
 date: 2024-01-04T08:52:37-08:00
-draft: true
+draft: false
 ---
 
 A quick summary before I work on the year-end post.
