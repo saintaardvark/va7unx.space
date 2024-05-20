@@ -25,4 +25,4 @@ giorno.  Non li dire, ma il mio scelta e "Amadeus".  E uno favorito!
 
 Poi: compito di casa per mio corso italiano.  Un essercizo di
 escrivare:  qual'e la tua festa preferita?  Probabilmente, dico
-Natale...ma e una risposta noisa.  Ma non so una risposta meglio.
+Natale...ma e una risposta noiosa.  Ma non so una risposta meglio.
