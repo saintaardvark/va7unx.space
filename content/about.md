@@ -14,6 +14,7 @@ Interests and past hobbies:
 - Amateur radio
 - SPAAAAAAAACE
 - Machine learning
+- Learning Italian
 
 Photo credit for avatar: [the European Space Agency's ATV5 vehicle
 approaches the ISS for docking][0].
