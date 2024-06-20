@@ -8,6 +8,7 @@
 
 HUGO=hugo
 
+# TODO: prompt & read title
 draft:
 	echo "run: hugo new posts/title-of-post.md"
 
