@@ -10,7 +10,8 @@ HUGO=hugo
 
 # TODO: prompt & read title
 draft:
-	echo "run: hugo new posts/title-of-post.md"
+	@echo "run: hugo new posts/title-of-post.md"
+	@echo "or:  hugo new italiano/uno-nuovo-post.md"
 
 serve: server
 
