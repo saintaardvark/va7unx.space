@@ -1,7 +1,7 @@
 ---
 title: "Uno conversazione con un biologa delle balene"
 date: 2024-06-24T06:42:19-07:00
-draft: true
+draft: false
 ---
 
 La settimana scorsa, io et mia marita sono andato à Nanaimo, su Vancouver Island.
