@@ -4,6 +4,8 @@ date: 2024-07-26T06:48:33-07:00
 draft: true
 ---
 
+<img src="IMG_7629.jpeg" alt="Single pixel camera" width="300" height="auto">
+
 This project came about when I came across [this project][0] ([Hackaday
 writeup][1]), where the creator made a one-pixel camera out of an IR
 sensor and an Arduino.  Because the sensor acted as a single pixel, he
@@ -20,12 +22,16 @@ My version is a little different:
 
 ## But first...how does it look?
 
+![Comparison][6]
+
 On the left is a picture on a sunny day on my front porch; on the
 right is a picture taken with my phone.  The scene is definitely
 recognizable, but doesn't seem as detailed as the original creator got
 with his.  It takes 7.5 minutes to take a 90 pixel by 90 pixel image.
 
 ## The Imager
+
+<img src="IMG_7637.jpeg" alt="Single pixel camera" width="300" height="auto">
 
 The imager is a dirt-simple pinhole camera. Its sensor is a random
 photoresistor.  I had missed the part of the original writeup where
@@ -45,7 +51,11 @@ The resistor is fed with 3.3V from the ESP32, and I'm reading the drop
 in voltage with one of the ESP32's analog sensors.  I'm doing this in
 16-bit mode, which is overkill and useless.  The voltage varies enough
 that I read 10 samples and average them in order to try and keep
-things reasonably constant.  The platform
+things reasonably constant.  
+
+## The platform
+
+<img src="IMG_7632.jpeg" alt="Single pixel camera" width="300" height="auto">
 
 The platform is more cardboard, plus hot glue and zip ties.  I've done
 some amateur astronomy, so what I had in mind was a simple alt-az
@@ -72,6 +82,8 @@ the camera is incredibly handy.
 
 ## The base
 
+<img src="IMG_7634.jpeg" alt="Single pixel camera" width="300" height="auto">
+
 The base was made by my father-in-law out of scrap wood.  He's a
 retired millwright who loves collaborating on these projects, and has
 a garage and all the tools you need to rebuild civilization -- so he's
@@ -88,8 +100,11 @@ in place with a random thumbscrew from the junk drawer.  The magnets I
 mentioned above glom on to the platform.
 
 The base's horizontal component has mounting holes for the screws that
-act as legs for the electronics board.  Speaking of which...  The
-electronics board
+act as legs for the electronics board.  Speaking of which...  
+
+## The electronics board
+
+<img src="IMG_7636.jpeg" alt="Single pixel camera" width="300" height="auto">
 
 The electronics board is a small piece of prototype board.  I've put
 in header pins for the ESP32, and drilled mounting holes for the PWM
@@ -141,6 +156,8 @@ It doesn't take much to max out the camera, so I [clamp the data to a
 normal distribution][5] to try and bring out details that might otherwise
 get lost; it's definitely an improvement, as you can see here:
 
+![Original vs clamped][8]
+
 (This is the same picture as is at the top of this article.)
 
 In addition to clamping the data, I also use bicubic interpolation on
@@ -180,3 +197,6 @@ it!
 [3]: https://github.com/saintaardvark/arduino-one-pixel-camera
 [4]: https://gitlab.com/saintaardvark/arduino-one-pixel-camera
 [5]: https://stackoverflow.com/questions/23199796/detect-and-exclude-outliers-in-a-pandas-dataframe/69001342#69001342
+[6]: one-pixel-camera-comparison.png
+[7]: IMG_7629.jpeg
+[8]: original-vs-clamped.png
