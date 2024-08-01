@@ -23,6 +23,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
   description     = "Hugh Brown, VA7UNX"
   avatar_description = "European Space Agency ETV-5 approaches the ISS"
+  [params.author]
+     name = "Hugh Brown VA7UNX"
 
 [menu]
 
