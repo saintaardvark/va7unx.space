@@ -2,7 +2,7 @@
 title: "Single Pixel Camera"
 date: 2024-07-26T06:48:33-07:00
 url: /projects/single-pixel-camera/
-draft: true
+draft: false
 ---
 
 <img src="IMG_7629.jpeg" alt="Single pixel camera" width="300" height="auto">
