@@ -7,6 +7,8 @@ draft: false
 
 <img src="IMG_7629.jpeg" alt="Single pixel camera" width="300" height="auto">
 
+_Also written up at [Hackaday.com][9]._
+
 This project came about when I came across [this project][0] ([Hackaday
 writeup][1]), where the creator made a one-pixel camera out of an IR
 sensor and an Arduino.  Because the sensor acted as a single pixel, he
@@ -201,3 +203,4 @@ it!
 [6]: one-pixel-camera-comparison.png
 [7]: IMG_7629.jpeg
 [8]: original-vs-clamped.png
+[9]: https://hackaday.com/2024/07/23/photoresistor-based-single-pixel-camera/
