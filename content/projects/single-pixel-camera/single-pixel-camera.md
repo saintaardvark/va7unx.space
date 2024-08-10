@@ -193,6 +193,9 @@ it!
   out to Value Village and buying a dozen 5V power supplies of
   different ratings, and the first one I tried did away with all the
   halting, jerking, and random failures I had been encountering.
+* I'd love to try making a colour version of this:
+  - Maybe with gel filters in front of the pinhole?
+  - Maybe by [using LEDs][10] as [colour sensors?][11]
 
 [0]: http://chynehome.com/web/index.php/2015/01/29/appareil-photo-de-1-pixel-avec-un-arduino/
 [1]: https://hackaday.com/2015/01/31/a-single-pixel-digital-camera-with-arduino/
@@ -204,3 +207,5 @@ it!
 [7]: IMG_7629.jpeg
 [8]: original-vs-clamped.png
 [9]: https://hackaday.com/2024/07/23/photoresistor-based-single-pixel-camera/
+[10]: https://makezine.com/projects/make-36-boards/how-to-use-leds-to-detect-light/
+[11]: https://hackaday.com/2024/07/23/you-can-use-leds-as-sensors-too/
