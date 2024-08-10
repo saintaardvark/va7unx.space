@@ -16,7 +16,7 @@ draft:
 serve: server
 
 server:
-	$(HUGO) server -D
+	$(HUGO) server -D --disableFastRender
 
 publish: build
 	rsync -avr --delete public/. l2:/var/www/va7unx.space/
