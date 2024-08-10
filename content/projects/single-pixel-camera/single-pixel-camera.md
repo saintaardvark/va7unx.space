@@ -5,7 +5,8 @@ url: /projects/single-pixel-camera/
 draft: false
 ---
 
-<img src="IMG_7629.jpeg" alt="Single pixel camera" width="300" height="auto">
+{{< figure src="IMG_7629.jpeg" caption="BEHOLD." width="50%" lightbox="single-pixel-camera" >}}
+
 
 _Also written up at [Hackaday.com][9]._
 
@@ -25,7 +26,7 @@ My version is a little different:
 
 ## But first...how does it look?
 
-![Comparison][6]
+{{< figure src="one-pixel-camera-comparison.png" caption="Comparison" width="50%" lightbox="single-pixel-camera" >}}
 
 On the left is a picture on a sunny day on my front porch; on the
 right is a picture taken with my phone.  The scene is definitely
@@ -34,7 +35,7 @@ with his.  It takes 7.5 minutes to take a 90 pixel by 90 pixel image.
 
 ## The Imager
 
-<img src="IMG_7637.jpeg" alt="Single pixel camera" width="300" height="auto">
+{{< figure src="IMG_7637.jpeg" alt="The imaging tube" width="50%" lightbox="single-pixel-camera" >}}
 
 The imager is a dirt-simple pinhole camera. Its sensor is a random
 photoresistor.  I had missed the part of the original writeup where
@@ -58,7 +59,7 @@ things reasonably constant.
 
 ## The platform
 
-<img src="IMG_7632.jpeg" alt="Single pixel camera" width="300" height="auto">
+{{< figure src="IMG_7632.jpeg" alt="The platform" width="50%" lightbox="single-pixel-camera" >}}
 
 The platform is more cardboard, plus hot glue and zip ties.  I've done
 some amateur astronomy, so what I had in mind was a simple alt-az
@@ -85,7 +86,7 @@ the camera is incredibly handy.
 
 ## The base
 
-<img src="/projets/IMG_7634.jpeg" alt="Single pixel camera" width="300" height="auto">
+{{< figure src="IMG_7634.jpeg" caption="The base" width="50%" lightbox="single-pixel-camera" >}}
 
 The base was made by my father-in-law out of scrap wood.  He's a
 retired millwright who loves collaborating on these projects, and has
@@ -107,7 +108,7 @@ act as legs for the electronics board.  Speaking of which...
 
 ## The electronics board
 
-<img src="IMG_7636.jpeg" alt="Single pixel camera" width="300" height="auto">
+{{< figure src="IMG_7636.jpeg" caption="The electronics board" width="50%" lightbox="single-pixel-camera" >}}
 
 The electronics board is a small piece of prototype board.  I've put
 in header pins for the ESP32, and drilled mounting holes for the PWM
@@ -159,7 +160,7 @@ It doesn't take much to max out the camera, so I [clamp the data to a
 normal distribution][5] to try and bring out details that might otherwise
 get lost; it's definitely an improvement, as you can see here:
 
-![Original vs clamped][8]
+{{< figure src="original-vs-clamped.png" caption="Original img vs clamped + bicubic interpolation" width="50%" lightbox="single-pixel-camera" >}}
 
 (This is the same picture as is at the top of this article.)
 
