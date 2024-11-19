@@ -1,7 +1,7 @@
 ---
 title: "Due Modi Verbale Nuovo"
 date: 2024-11-18T20:37:32-08:00
-draft: true
+draft: false
 ---
 
 Di recente, ho ricominciato il mio corso italiano.  (E mia

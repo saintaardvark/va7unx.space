@@ -17,7 +17,7 @@ ma a parte ciò unremarkable.
 
 Il filtro è un sezione di un filtro molto grande -- una di sei chi
 comprato per un filtro dell'aria per incendi boschivi.  (Parlete a
-vostro government oggi a perché il cambiamentoo climatico è importante
+vostro government oggi a perché il cambiamento climatico è importante
 per voi!)  Il nastro è necessario perchè il filtro a fili all'
 interno -- ho dovuto tagliare per usato, e i fili spuntano fuori.
 
