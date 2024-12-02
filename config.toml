@@ -46,3 +46,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [markup.goldmark.renderer]
  unsafe = true
+
+[pagination]
+  pagerSize = 20
