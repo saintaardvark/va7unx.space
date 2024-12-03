@@ -14,9 +14,9 @@ inspired and ordered a batch of 50 (!) 555s from AliExpress -- for $2,
 how could I not?
 
 While waiting for them to come in, I started looking for something to
-do with them -- and came across the [Atari Punk Console][4].  I
+do with them -- and came across the [Atari Punk Console][1].  I
 remembered I *also* had an LM386 I hadn't used, so decided to [throw
-it into the works as well][3].  I managed to get something
+it into the works as well][2].  I managed to get something
 breadboarded together that actually made sound, and in a fit of
 ambition declared I would make a permanent version.
 
