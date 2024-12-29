@@ -48,4 +48,4 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
  unsafe = true
 
 [pagination]
-  pagerSize = 20
+  pagerSize = 10
