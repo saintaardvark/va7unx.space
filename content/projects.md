@@ -7,6 +7,7 @@ Hello, world!
 * [Single pixel camera][0]
 * [New West Trees][3]
 * [Atari Punk Console][4]
+* [Audobon Climate Watch][5]
 
 ## What am I working on next?
 
@@ -19,3 +20,4 @@ Hello, world!
 [2]: https://va7unx.space/projects/inspiration/
 [3]: /projects/new-west-trees
 [4]: /projects/atari-punk-console
+[5]: /projects/audobon-climate-watch
