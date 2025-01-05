@@ -1,7 +1,7 @@
 ---
 title: "Inspiration"
 date: 2024-07-28T07:49:59-07:00
-draft: true
+draft: false
 ---
 
 Did you know that [Hackaday.com][1] has been publishing since (at least)
