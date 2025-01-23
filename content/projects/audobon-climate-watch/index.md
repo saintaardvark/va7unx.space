@@ -5,16 +5,21 @@ draft: false
 ---
 # Locations
 
-- Glenbrook Ravine
-- Queen's Park
-- Hume Park
-- Westburnco
-- Burnaby Lake Regional Park, Cariboo Dam
-- Burnaby Lake Regional Park, dock out on lake
-- Robert Burnaby Park, by baseball diamond
-- 
+1. Glenbrook Ravine
+1. Queen's Park
+1. Hume Park
+1. Westburnco
+1. Burnaby Lake Regional Park, Cariboo Dam
+1. Burnaby Lake Regional Park, dock out on lake
+1. Robert Burnaby Park, by baseball diamond
+1. Seventh Ave & 16th Street
+1. Deer Lake Park
+1. Keith Street
+1. City in the Park
+1. Stride Avenue Ravine Park
 
 # Instructions
+
 - Don't forget to select "Planned survey sites" in the layer tool!
 - Take Google Maps out of incognito mode for the "Get directions"
   button to work
