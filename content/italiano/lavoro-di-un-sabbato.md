@@ -1,7 +1,7 @@
 ---
-title: "Lavoro Di Un Sabbato"
+title: "Lavoro di un sabbato"
 date: 2025-03-01T16:47:37-08:00
-draft: true
+draft: false
 ---
 
 Oggi è sabato, e sono stato molte occupato [impegnato?].  Di questo?
